@@ -1,0 +1,24 @@
+{
+  "name": "cadedillonportfolio",
+  "version": "1.0.0",
+  "description": "Personal website and project portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadedillon/cadedillonportfolio.git"
+  },
+  "keywords": [
+    "web",
+    "node",
+    "react"
+  ],
+  "author": "cadedillon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cadedillon/cadedillonportfolio/issues"
+  },
+  "homepage": "https://github.com/cadedillon/cadedillonportfolio#readme"
+}
